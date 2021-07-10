@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "discord.js": "^12.5.3",
+    "puppeteer-core": "^10.1.0",
+    "request-promise": "^4.2.6"
+  }
+}
